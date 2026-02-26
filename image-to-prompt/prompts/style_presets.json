@@ -1,0 +1,42 @@
+{
+  "photo": {
+    "label": "📸 Фотография",
+    "suffix": ", professional photography, sharp focus, natural lighting, high resolution, 8k, photorealistic, detailed textures, bokeh background"
+  },
+  "digital_art": {
+    "label": "🎨 Digital Art",
+    "suffix": ", digital art, vibrant colors, detailed illustration, trending on ArtStation, concept art style, dynamic composition, rich palette"
+  },
+  "cinematic": {
+    "label": "🎬 Cinematic",
+    "suffix": ", cinematic lighting, dramatic atmosphere, film grain, anamorphic lens, color grading, movie still, volumetric light, epic scene"
+  },
+  "anime": {
+    "label": "🌸 Anime",
+    "suffix": ", anime style, cel shading, Studio Ghibli inspired, soft colors, detailed background, kawaii aesthetic, manga illustration"
+  },
+  "oil_painting": {
+    "label": "🖌️ Масляная живопись",
+    "suffix": ", oil painting, visible brush strokes, rich colors, classical art style, fine art, museum quality, Renaissance influence, impasto technique"
+  },
+  "3d_render": {
+    "label": "🧊 3D Render",
+    "suffix": ", 3D render, Octane render, ray tracing, subsurface scattering, physically based rendering, Unreal Engine 5, realistic materials, studio lighting"
+  },
+  "concept_art": {
+    "label": "💡 Concept Art",
+    "suffix": ", concept art, detailed environment design, matte painting, epic scale, atmospheric perspective, fantasy illustration, artstation trending"
+  },
+  "watercolor": {
+    "label": "💧 Акварель",
+    "suffix": ", watercolor painting, soft washes, wet on wet technique, delicate colors, paper texture, artistic, flowing pigments, transparent layers"
+  },
+  "sculpture": {
+    "label": "🗿 Скульптура",
+    "suffix": ", marble sculpture, detailed carving, classical Greek style, museum lighting, fine details, stone texture, dramatic shadows, Michelangelo inspired"
+  },
+  "candle_art": {
+    "label": "🕯️ Свечной арт",
+    "suffix": ", handcrafted candle art, warm wax textures, artisan craft, candlelight glow, sculptural wax form, cozy aesthetic, handmade quality"
+  }
+}
