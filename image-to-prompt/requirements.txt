@@ -1,0 +1,7 @@
+gradio>=4.0.0
+clip-interrogator>=0.6.0
+torch>=2.0.0
+torchvision
+Pillow>=10.0.0
+transformers>=4.30.0
+open-clip-torch>=2.20.0
